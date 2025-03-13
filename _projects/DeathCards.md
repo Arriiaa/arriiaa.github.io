@@ -3,7 +3,7 @@ layout: page
 title: 死亡卡牌
 description: 卡牌Roguelike
 img: assets/img/publication_preview/意图系统.png
-importance: 3
+importance: 4
 category: Individual
 giscus_comments: false
 ---
