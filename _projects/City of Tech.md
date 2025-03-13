@@ -3,7 +3,7 @@ layout: page
 title: 科技之城
 description: 德式桌游
 img: assets/img/科技之城.png
-importance: 2
+importance: 3
 category: Individual
 giscus_comments: false
 ---
