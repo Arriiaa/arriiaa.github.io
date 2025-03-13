@@ -135,8 +135,8 @@ ninja.data = [{
           description: "2D平台射击游戏",
           section: "Projects",handler: () => {
               window.location.href = "/projects/LAN/";
-            },},{id: "projects-隐秘矿洞",
-          title: '隐秘矿洞',
+            },},{id: "projects-歌剧院",
+          title: '歌剧院',
           description: "ARPG 项目关卡白盒",
           section: "Projects",handler: () => {
               window.location.href = "/projects/OperaLevel/";
