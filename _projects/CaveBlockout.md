@@ -3,7 +3,7 @@ layout: page
 title: 隐秘矿洞
 description: ARPG 项目关卡白盒
 img: assets/img/ARPG_Blockout.jpg
-importance: 1
+importance: 2
 category: Individual
 related_publications: false
 ---
