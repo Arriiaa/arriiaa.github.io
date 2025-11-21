@@ -135,6 +135,11 @@ ninja.data = [{
           description: "2D平台射击游戏",
           section: "Projects",handler: () => {
               window.location.href = "/projects/LAN/";
+            },},{id: "projects-歌剧院",
+          title: '歌剧院',
+          description: "ARPG 项目关卡白盒",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/OperaLevel/";
             },},{id: "projects-是-否",
           title: '是，否',
           description: "文字冒险",
